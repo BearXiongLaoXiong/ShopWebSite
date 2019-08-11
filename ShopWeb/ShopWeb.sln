@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopWeb", "ShopWeb\ShopWeb.csproj", "{30794CC0-8392-4D61-B300-2484FB486D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBll", "ShopBll\ShopBll.csproj", "{659C5306-9BE7-4DF4-85F1-7F66A9DC31E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopDal", "ShopDal\ShopDal.csproj", "{2E5E89F6-EB2C-4376-AD7C-297F967D1139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30794CC0-8392-4D61-B300-2484FB486D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30794CC0-8392-4D61-B300-2484FB486D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30794CC0-8392-4D61-B300-2484FB486D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30794CC0-8392-4D61-B300-2484FB486D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659C5306-9BE7-4DF4-85F1-7F66A9DC31E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659C5306-9BE7-4DF4-85F1-7F66A9DC31E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659C5306-9BE7-4DF4-85F1-7F66A9DC31E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659C5306-9BE7-4DF4-85F1-7F66A9DC31E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5E89F6-EB2C-4376-AD7C-297F967D1139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5E89F6-EB2C-4376-AD7C-297F967D1139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5E89F6-EB2C-4376-AD7C-297F967D1139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5E89F6-EB2C-4376-AD7C-297F967D1139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E98AFF-7AAD-47DF-AECC-97C89BB0A0F5}
+	EndGlobalSection
+EndGlobal
